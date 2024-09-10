@@ -20,7 +20,7 @@ Here are some of the tools and technologies I work with:
 ## 👥 Let's Connect!
 
 - 🌐 [My Website/Portfolio](https://www.spinny.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/filippo-spinella/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/filippo-spinella/)
 ---
 
 Thanks for stopping by! 😊 Feel free to explore the code, open issues, and contribute if you'd like!
