@@ -19,8 +19,7 @@ Here are some of the tools and technologies I work with:
 
 ## 👥 Let's Connect!
 
-- 🌐 [Your Website/Portfolio](https://www.spinny.dev)
-- 🐦 [Twitter](Your Twitter handle)
+- 🌐 [My Website/Portfolio](https://www.spinny.dev)
 - 💼 [LinkedIn]([Your LinkedIn profile](https://www.linkedin.com/in/filippo-spinella/))
 ---
 
