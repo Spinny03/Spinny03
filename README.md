@@ -1,16 +1,27 @@
-### Hi there 👋
+# 🚀 Welcome to My GitHub Repository!
 
-<!--
-**Spinny03/Spinny03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 🙋‍♂️ I'm Filippo Spinella, a passionate developer who loves technology, clean code, and innovative solutions. This repository showcases some of my best work, side projects, and experiments. Whether you're a fellow developer, a recruiter, or just curious, I hope you find something that catches your eye!
 
-Here are some ideas to get you started:
+## 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I specialize in web development and cloud.
+- 🔧 I love working with Typescript, Go, Node.js, Java, K8s ecc...
+- 🎓 Lifelong learner, always excited to explore new tools and technologies.
+
+## 🚀 Technologies & Tools
+
+Here are some of the tools and technologies I work with:
+
+- **Languages**: Java, Typescipt, Go 
+- **Frameworks**: Next.js, Express, Spring, Gin, Grpc
+- **Tools**: K8s, Docker, Git, Prettier
+- **Databases**: MySQL, MongoDB, ElasticSearch, Redis
+
+## 👥 Let's Connect!
+
+- 🌐 [Your Website/Portfolio](https://www.spinny.dev)
+- 🐦 [Twitter](Your Twitter handle)
+- 💼 [LinkedIn]([Your LinkedIn profile](https://www.linkedin.com/in/filippo-spinella/))
+---
+
+Thanks for stopping by! 😊 Feel free to explore the code, open issues, and contribute if you'd like!
